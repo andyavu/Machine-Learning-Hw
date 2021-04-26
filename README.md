@@ -1,4 +1,5 @@
-# Machine Learning and Its Applications
+# CS 4210 - Machine Learning and Its Applications
+
 **Assignment 1:**
 * Perform Find-S algorithm
 * Derive decision tree produced by ID3 algorithm
