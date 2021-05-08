@@ -10,8 +10,12 @@
 * Output the classification of each test instance
 
 **Assignment 3:**
-* Build a base classifier (single decision tree, ensemble classifier that combines multiple decision trees, Random Forest)
-* Find combination of SVM hyperparameters that leads to the best prediction performance
-
+* Build a base classifier
+* Find best combination of SVM hyperparameters
 **Assignment 4:**
-* Find combination of Perceptron hyperparameters that leads to the best prediction performance
+* Find best combination of Perceptron hyperparameters
+**Assignment 5:**
+* Read file to cluster data and run k-means multiple times
+* Read file to make user-based recommendations
+* Read file to find strong association rules
+* Learn how to classify fashion items
