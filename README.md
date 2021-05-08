@@ -12,8 +12,10 @@
 **Assignment 3:**
 * Build a base classifier
 * Find best combination of SVM hyperparameters
+
 **Assignment 4:**
 * Find best combination of Perceptron hyperparameters
+
 **Assignment 5:**
 * Read file to cluster data and run k-means multiple times
 * Read file to make user-based recommendations
