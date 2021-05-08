@@ -81,8 +81,8 @@ for h in n_hidden:
                 N = n
                 L = l
             print("Highest SVM accuracy so far: " + str(highestAccuracy))
-            print("Parameters: " + "Number of Hidden Layers: " + str(h) + ",number of neurons: " + str(n) + ",learning rate: " + str(l))
-print()
+            print("Parameters: " + "Number of Hidden Layers: " + str(h) + ", number of neurons: " + str(n) + ", learning rate: " + str(l))
+            print()
 
 # After generating all neural networks, print the highest accuracy again and the final weights and biases of the best model
 print("Highest SVM accuracy so far: " + str(highestAccuracy))
